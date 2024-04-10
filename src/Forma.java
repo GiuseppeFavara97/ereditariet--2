@@ -1,7 +1,5 @@
 public class Forma {
-        public double calcolaArea(double base, double altezza) {
-
-            System.out.println("Calcolo area della forma:");
-            return base * altezza ;
+        public  void calcolaArea() {
+            System.out.print("L' area del " );
         }
 }
