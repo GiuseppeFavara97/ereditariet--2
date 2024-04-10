@@ -1,5 +1,5 @@
 public class Forma {
         public  void calcolaArea() {
-            System.out.print("L' area del " );
+            System.out.println("Calcolo dell' area della forma. " );
         }
 }

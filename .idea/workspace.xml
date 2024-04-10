@@ -7,7 +7,6 @@
     <list default="true" id="dcd53933-ee28-40bf-bf72-9f5cdf3841ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rettangolo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <updated>1712567780895</updated>
       <workItem from="1712567782165" duration="9237000" />
       <workItem from="1712742720166" duration="1355000" />
-      <workItem from="1712752024889" duration="1962000" />
+      <workItem from="1712752024889" duration="3754000" />
     </task>
     <servers />
   </component>
